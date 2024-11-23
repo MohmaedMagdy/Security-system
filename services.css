@@ -1,0 +1,17 @@
+.icon{
+    width: 7rem;
+}
+
+.navbar .nav-link,
+.navbar .navbar-brand {
+    color: rgb(0, 0, 0) !important;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #d0f1ee;
+}
+
+footer{
+    background-color: rgb(53, 49, 49);
+  }

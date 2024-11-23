@@ -1,0 +1,42 @@
+.icon{
+    width: 7rem;
+}
+  
+.navbar .nav-link,
+.navbar .navbar-brand {
+  color: rgb(0, 0, 0) !important;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #d0f1ee;
+}
+#SocialMedia {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.Container {
+  display: inline-block;
+}
+
+
+footer{
+  background-color: rgb(53, 49, 49);
+}
+
+.products-row{
+  margin-left: 7pc;
+  margin-bottom: 5pc;
+  
+}
+
+.height-card{
+  height: 60px;
+}
+
+
+
+
+
+

@@ -1,0 +1,45 @@
+.icon{
+    width: 7rem;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #d0f1ee;
+  }
+
+.navbar .nav-link,
+.navbar .navbar-brand {
+    color: rgb(0, 0, 0) !important;
+}
+.nav-item{
+    text-align: center;
+    
+}
+
+.bbb{
+    width: 100px;
+    
+}
+
+.btn-group{
+    
+    padding-left: 250px;
+
+}
+footer{
+    background-color: rgb(53, 49, 49);
+  }
+
+.container-fluid {
+    padding-right: 11px;
+    padding-left: 11px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+*, :after, :before, a {
+    padding: 0;
+    margin: 0;
+}
+
+

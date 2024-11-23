@@ -1,0 +1,23 @@
+.icon{
+  width: 7rem;
+}
+body {
+  font-family: Arial, sans-serif;
+  background-color: #d0f1ee;
+}
+.navbar .nav-link,
+.navbar .navbar-brand {
+  color: rgb(0, 0, 0) !important;
+}
+
+
+  .blog-post {
+    margin-bottom: 30px;
+  }
+  .blog-post img {
+    max-width: 100%;
+    height: auto;
+  }
+  footer{
+    background-color: rgb(53, 49, 49);
+  }
